@@ -1,1 +1,0 @@
-# S-cakl-k_degistirici
