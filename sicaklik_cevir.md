@@ -1,4 +1,8 @@
 # S-cakl-k_degistirici
+
+
+
+
 print("#========== Sıcaklık Çevirici ==========#")
 
 
